@@ -1,1 +1,1 @@
-# CPSC-1233-Data-Structures
+# Coursework for CPSC 1233 Data Structures
